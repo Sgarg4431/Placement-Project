@@ -11,8 +11,7 @@
 (as shown)
 ![5](https://user-images.githubusercontent.com/90102863/178770769-0987e1db-0e16-4340-b2e0-235b9add8237.jpg)
 ## After Student login's
-#### Student once logined will be able to see the jobs that are verified by TPO 
-(as shown).
+#### Student once logined will be able to see the jobs that are verified by TPO  (as shown).
 #### Here the student name is Hello and the job posted is java developer
 ![4](https://user-images.githubusercontent.com/90102863/178769947-b2a8a973-c6c5-47ab-9186-8a0ab310df87.png)
 ## After Recruiter login's
