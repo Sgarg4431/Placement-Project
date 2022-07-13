@@ -15,7 +15,7 @@
 #### Here the student name is Hello and the job posted is java developer
 ![4](https://user-images.githubusercontent.com/90102863/178769947-b2a8a973-c6c5-47ab-9186-8a0ab310df87.png)
 ## After Recruiter login's
-#### In the similar way Recruiter will register and Login into the Portaland after that Recruiter would be able to post new job, view Students and update the status of the particular Student (wheather qualified for next round or not)
+#### In the similar way Recruiter will register and Login into the Portal and after that Recruiter would be able to post new job, view Students and update the status of the particular Student (wheather qualified for next round or not)
 ![7](https://user-images.githubusercontent.com/90102863/178771551-97b03e2a-117c-4f17-8450-7cd9c2c14d71.png)
 ## Post Job page look's like as shown
 ![Collage Maker-13-Jul-2022-08 13-PM](https://user-images.githubusercontent.com/90102863/178772371-2d9770e3-1f06-4401-9753-1b663e4b6f00.jpg)
