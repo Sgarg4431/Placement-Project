@@ -7,7 +7,10 @@
 ## User can Register if new to the platform OR Login if already registered
 (as shown)
 ![Collage Maker-13-Jul-2022-08 46-PM](https://user-images.githubusercontent.com/90102863/178769430-75109f46-c74a-46cd-8aee-a66a2f58cb09.jpg)
-## Student once registered will be able to see the jobs that are verified by TPO 
+## Once Student is Registered to the portal he/she can update its profile
+(as shown)
+![5](https://user-images.githubusercontent.com/90102863/178770769-0987e1db-0e16-4340-b2e0-235b9add8237.jpg)
+## Student once logined will be able to see the jobs that are verified by TPO 
 (as shown)
 Here the student name is Hello and the job posted is java developer
 ![4](https://user-images.githubusercontent.com/90102863/178769947-b2a8a973-c6c5-47ab-9186-8a0ab310df87.png)
