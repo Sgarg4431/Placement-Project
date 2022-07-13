@@ -24,6 +24,10 @@
 ![6](https://user-images.githubusercontent.com/90102863/178772738-ff1e839d-337b-47ac-b40a-8293f8a9cf21.png)
 ### TPO would be able to see the information submitted by student while applying to job and verify the same (as shown)
 ![Collage Maker-13-Jul-2022-09 08-PM](https://user-images.githubusercontent.com/90102863/178774322-b1ceae7a-2a03-4727-a628-a68f585c736f.jpg)
+## Error Page
+#### If any user enters wrong credentials he/she will see the below error page
+![8](https://user-images.githubusercontent.com/90102863/178774871-5fd0977b-935c-49c5-8951-d5871c31d423.png)
+
 
 
 
