@@ -19,6 +19,9 @@
 ![7](https://user-images.githubusercontent.com/90102863/178771551-97b03e2a-117c-4f17-8450-7cd9c2c14d71.png)
 ## Post Job page look's like as shown
 ![Collage Maker-13-Jul-2022-08 13-PM](https://user-images.githubusercontent.com/90102863/178772371-2d9770e3-1f06-4401-9753-1b663e4b6f00.jpg)
+## TPO will Login into the Portal as Admin 
+![6](https://user-images.githubusercontent.com/90102863/178772738-ff1e839d-337b-47ac-b40a-8293f8a9cf21.png)
+
 
 
 
